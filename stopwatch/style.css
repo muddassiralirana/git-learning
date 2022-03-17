@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: cadetblue;
+
+}
+h1{
+    display: inline-block;
+    width: 100px;
+    background-color: bisque;
+    border: 3px solid black;
+}
+button{
+    width: 10%;
+    border: 2px solid red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
